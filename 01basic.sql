@@ -1,0 +1,11 @@
+SHOW DATABASES;
+# db creation
+CREATE DATABASE test1;
+
+SHOW DATABASES;
+
+#drop the db
+DROP DATABASE test1;
+
+SHOW DATABASES;
+
